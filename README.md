@@ -4,6 +4,8 @@
 This project involves clustering retail sales data to identify different customer segments based on their purchasing behavior. The analysis includes visualizations using violin plots to interpret the characteristics of each cluster.
 
 ## Data
+This is a transnational dataset which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
+
 The dataset used in this project is the retail sales dataset from the UCI Machine https://archive.ics.uci.edu/dataset/352/online+retail Learning Repository.
 
 ## Clustering Analysis
